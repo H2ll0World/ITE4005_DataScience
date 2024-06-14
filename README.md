@@ -2,7 +2,7 @@
 
 # Assignment 1
 
-### Association rules using the Apriori algorithm
+### Association rules using Apriori algorithm
 
 # Assignment 2
 
