@@ -10,4 +10,4 @@
 
 # Assignment 3
 
-### DBSCAN
+### DBSCAN (Density Based SCAN)
