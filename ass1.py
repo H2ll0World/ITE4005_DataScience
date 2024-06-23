@@ -24,7 +24,7 @@ outputF = open(outputFile, 'w')
 
 # first case
 c1 = {} # candidiate 1 # dictionary
-# 왜 만든것? => supportHash는 dictionary 자료형이므로 탐색이 불가능 해서 따로 만듬
+# supportHash는 dictionary 자료형이므로 탐색이 불가능 해서 따로 만듬
 largeList = [] # element는 list element의 element는 set
 transactions = [] # element는 set
 supportHash = {}
