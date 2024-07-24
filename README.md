@@ -1,4 +1,4 @@
-# ITE4005_DataScience
+# ITE4005_DataScience at Hanyang Univ, Prof Dongkyu Chae
 
 # Assignment 1
 
